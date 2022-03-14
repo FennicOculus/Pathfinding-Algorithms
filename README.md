@@ -1,2 +1,2 @@
 # Pathfinding-Algorithms
-Implementation of some pathfinding algorithms
+Implementation of some pathfinding algorithms using Python
