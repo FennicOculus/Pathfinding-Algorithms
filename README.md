@@ -11,7 +11,8 @@ Implementation of some pathfinding algorithms using Python
 └──────
 ```
 # TODO
-- [ ] Breadth-First Search (BFS).
-- [ ] Depth-First Search (DFS).
-- [ ] Djikstra
+- [x] Breadth-First Search (BFS).
+- [x] Depth-First Search (DFS).
+- [ ] Djikstra.
 - [ ] A*.
+- [ ] Adding UI to BFS/DFS
