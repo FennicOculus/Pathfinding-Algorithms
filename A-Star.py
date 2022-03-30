@@ -4,10 +4,6 @@ import random
 import time
 from time import sleep
 
-#AOUABED Samy Aghiles
-#181831084214
-#M1 IV Groupe 1
-
 def initB():
     #Initialisation du jeu
     global board
